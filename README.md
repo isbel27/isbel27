@@ -32,6 +32,10 @@
 - 🎨 **UI/UX**: Enofcados en diseños minimalistas y de aspecto agradable al usuario.
 - 🌐 **Optimización SEO**: Mejora con buenas prácticas la visibilidad del sitio web.
 
+- ###Portafolio
+
+- 📂 [Portafolio](https://reliable-puppy-d1f044.netlify.app/)
+
 
 ### Mi Trayectoria de Aprendizaje
 
